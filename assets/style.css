@@ -74,6 +74,10 @@ body {
   user-select: none;
 }
 
+.arr:hover {
+  background-color: #009900;
+}
+
 .arr:active {
   background: #555;
 }
