@@ -1,7 +1,6 @@
 # Snake Game
 
-This repository contains the source code for a Snake Game, which you can integrate into your portfolio website or any other web project. The game is built using HTML, CSS, and JavaScript.
-
+This repository contains the source code for a Snake Game. 
 ![Snake Game Demo](./assets/snake.png)
 
 ## Demo
@@ -27,7 +26,7 @@ git clone https://github.com/meetmarvelous/snake_game.git
 
 ## Usage
 
-You can integrate this Snake Game into your portfolio website or any web project. Follow these steps to include the game in your HTML file:
+You can integrate this Snake Game into any web project. Follow these steps to include the game in your HTML file:
 
 1. Copy the contents of `index.html`, `style.css`, and `game.js` files into your respective HTML, CSS, and JavaScript files.
 
